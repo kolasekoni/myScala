@@ -8,3 +8,5 @@ First Repository primarily for practice
 progfun.eml added,
 
 progfun.iml added
+
+.gitignore specifies parameters to be ignored
