@@ -1,0 +1,4 @@
+testing the effect of updating a branch with a new file after re-directing head to point to it with:
+git checkout testBranch
+
+addition
